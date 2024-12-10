@@ -9,10 +9,12 @@ body{
 
 .container{
     display: flex;
+    /* !!! */
     flex-direction: column;
+    /* !!! */
     justify-content: center;
     width: 80%;
-    gap: 40px;
+    gap: 50px;
 }
 .box {
     width: 600px;
